@@ -1,0 +1,42 @@
+Tamaño del proceso: 1344 bytes
+Numero de páginas: 11
+
+
+Indice 	 Marco 	 Valida 	
+0 	 0 	 1
+1 	 1 	 1
+2 	 2 	 1
+3 	 3 	 1
+4 	 4 	 1
+5 	 5 	 1
+6 	 6 	 1
+7 	 7 	 1
+8 	 8 	 1
+9 	 9 	 1
+10 	 10 	 1
+
+
+Dir. logica: 0 	 Num pagina: 0 	 Desplazamiento: 0 	 Dir. Fisica: 0
+Dir. logica: 4 	 Num pagina: 0 	 Desplazamiento: 4 	 Dir. Fisica: 4
+Dir. logica: 208 	 Num pagina: 1 	 Desplazamiento: 80 	 Dir. Fisica: 208
+Dir. logica: 212 	 Num pagina: 1 	 Desplazamiento: 84 	 Dir. Fisica: 212
+Dir. logica: 1384 	 Num pagina: 10 	 Desplazamiento: 104 	 Dir. Fisica: 1384
+Dir. logica: 216 	 Num pagina: 1 	 Desplazamiento: 88 	 Dir. Fisica: 216
+Dir. logica: 1380 	 Num pagina: 10 	 Desplazamiento: 100 	 Dir. Fisica: 1380
+Dir. logica: 220 	 Num pagina: 1 	 Desplazamiento: 92 	 Dir. Fisica: 220
+Dir. logica: 1376 	 Num pagina: 10 	 Desplazamiento: 96 	 Dir. Fisica: 1376
+Dir. logica: 224 	 Num pagina: 1 	 Desplazamiento: 96 	 Dir. Fisica: 224
+Dir. logica: 228 	 Num pagina: 1 	 Desplazamiento: 100 	 Dir. Fisica: 228
+Dir. logica: 232 	 Num pagina: 1 	 Desplazamiento: 104 	 Dir. Fisica: 232
+Dir. logica: 16 	 Num pagina: 0 	 Desplazamiento: 16 	 Dir. Fisica: 16
+Dir. logica: 20 	 Num pagina: 0 	 Desplazamiento: 20 	 Dir. Fisica: 20
+Machine halting!
+
+Ticks: total 20, idle 0, system 10, user 10
+Disk I/O: reads 0, writes 0
+Console I/O: reads 0, writes 0
+Paging: faults 0
+Network I/O: packets received 0, sent 0
+
+Cleaning up...
+

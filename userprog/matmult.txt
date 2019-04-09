@@ -1,0 +1,2 @@
+Tamaño del proceso: 6880 bytes
+Numero de páginas: 54
